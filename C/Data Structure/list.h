@@ -9,6 +9,8 @@ typedef struct list_node* list_link;
 typedef struct list_node {
 	int idx;
 	int data;
+	
+	list_link next;
 } list_node;
 
 list_link head; // save the address of the starting point
@@ -93,7 +95,7 @@ void delete_node(list_link deleted_node) {
 		return;
 	}
 
-	// ����Ʈ Ž��
+	// search the list
 	while (p->next) {
 		if (p->next == deleted_node) {
 			previous_node = p;
