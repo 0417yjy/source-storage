@@ -1,7 +1,7 @@
 #pragma once
 #include <iostream>
-#ifndef LINKED_LIST_CPP_H_
-#define LINKED_LIST_CPP_H_
+#ifndef DOUBLY_LINKED_LIST_CPP_H_
+#define DOUBLY_LINKED_LIST_CPP_H_
 
 template <class T>
 class Node {
@@ -208,4 +208,4 @@ public:
     }
 };
 
-#endif // !LINKED_LIST_CPP_H_
+#endif // !DOUBLY_LINKED_LIST_CPP_H_
