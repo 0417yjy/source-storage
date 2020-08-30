@@ -42,3 +42,7 @@ int DynamicProgramming::get(int idx) {
         return arr[idx];
     }
 }
+
+DynamicProgramming::~DynamicProgramming() {
+    delete[] arr;
+}
