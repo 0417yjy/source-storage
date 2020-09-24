@@ -1,3 +1,15 @@
+/*
+ * File: list_cpp.h
+ * Project: Data Structure
+ * File Created: Tuesday, 17th March 2020 4:31:34 pm
+ * Author: Jongyeon Yoon (0417yjy@naver.com)
+ * -----
+ * Last Modified: Thursday, 24th September 2020 6:38:46 pm
+ * Modified By: Jongyeon Yoon (0417yjy@naver.com>)
+ * -----
+ * Copyright 2020 Jongyeon Yoon
+ */
+
 #pragma once
 #include <iostream>
 #ifndef LINKED_LIST_CPP_H_
