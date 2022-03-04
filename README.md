@@ -7,6 +7,7 @@ Archiving some kinds of algorithms and templates snippets
 
 ## Reference
 [C/C++](https://en.cppreference.com/w/)
+[Java 11](https://docs.oracle.com/en/java/javase/11/docs/api/index.html)
 
 ## 개별문서
 [언어별 스트링 <-> int 변환 방법 정리](string-conversion.md)  
